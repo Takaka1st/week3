@@ -263,6 +263,9 @@ a{
 	.text p,.more{
 		display: none;
 	}
+	.text{
+		height: 41px;
+	}
 	.mainPic{
 		width: 345px;
 		height: 193px;
@@ -309,9 +312,7 @@ a{
 	background-color: black;
 	color: white;
 }
-.page li a:visited{
-	color: black;
-}
+
 
 /*翻頁-375*/
 @media(max-width: 375px){
